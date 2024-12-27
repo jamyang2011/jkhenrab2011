@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(26, 16, 16);
+    color: white;
+}
+p{
+    font-size: large;
+    color: whitesmoke;
+}
+form{
+    color: #f4f4f4;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url("images/images\ \(1\).jpg");
+}
+input{
+    border: black
+}
